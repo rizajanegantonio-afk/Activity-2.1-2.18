@@ -1,7 +1,6 @@
-/* 
-Name: Riza Jane Antonio
-Course/Year/Section: BSIT NETSEC 1-1
-*/
+/* Name: Riza Jane Antonio
+Course/Year/Section: BSIT NETSEC 1-1*/
+
 public class SequentialNumbers
 {
     public static void main(String[] args)
