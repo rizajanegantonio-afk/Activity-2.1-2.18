@@ -1,7 +1,5 @@
-/* 
-Name: Riza Jane Antonio
-Course/Year/Section: BSIT NETSEC 1-1
-*/
+/* Name: Riza Jane Antonio
+Course/Year/Section: BSIT NETSEC 1-1*/
 
 public class desiderata2                          /* Class name: desiderata2 */
 {                                                  /* Start of class body */
