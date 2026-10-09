@@ -1,7 +1,7 @@
 /* Name: Riza Jane Antonio
 Course/Year/Section: BSIT NETSEC 1-1*/
 
-public class desiderata2                          /* Class name: desiderata2 */
+public class desiderata2                          /* Class name: Desiderata2 */
 {                                                  /* Start of class body */
     public static void main(String[] args)        /* Method name: main */
     {                                              /* Start of method body */
